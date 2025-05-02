@@ -1,12 +1,29 @@
 ---
 title: Documentação do Sistema SunFácil
 layout: home
+nav_order: 1
 ---
 
 # Bem-vindo ao Sistema SunFácil
 
 O **SunFácil** é a sua plataforma para gestão eficiente e prática de energia solar. Aqui você encontra ferramentas otimizadas para administrar seus processos de forma ágil e segura. Aproveite todas as funcionalidades para facilitar sua rotina!
 
+
+<div style="display: flex; gap: 1rem;">
+  <a href="#começando" 
+     style="width: 25%; text-align: center; background-color: #009739; color: white; border: none; padding: 0.5rem 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: all 0.2s ease-in-out; font-weight: 500; font-size: 1rem; cursor: pointer; text-decoration: none;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.15)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 4px rgba(0, 0, 0, 0.1)'">
+  Começar Agora
+  </a>
+
+  <a href="https://github.com/SunFacil-Labs/sunfacil-just-documentation" 
+     style="width: 25%; text-align: center; background-color: white; color: #009739; border: 2px solid #009739; padding: 0.5rem 1rem; border-radius: 6px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); transition: all 0.2s ease-in-out; font-weight: 500; font-size: 1rem; cursor: pointer; text-decoration: none;"
+     onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.15)'"
+     onmouseout="this.style.transform='none'; this.style.boxShadow='0 2px 4px rgba(0, 0, 0, 0.1)'">
+  Ver no GitHub
+  </a>
+</div>
 ## Funcionalidades
 
 - **Gestão de Clientes**: Acompanhe todo o ciclo de vendas e pós-venda.
@@ -24,7 +41,7 @@ Para começar a usar o sistema SunFácil, siga os passos abaixo:
 
 ## Acesso ao Sistema
 
-Para acessar o sistema, utilize o seguinte link: [Acessar SunFácil](#)
+Para acessar o sistema, utilize o seguinte link: [Acessar SunFácil](https://painel.sunfacil.com.br)
 
 ## Suporte
 

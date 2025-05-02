@@ -3,5 +3,16 @@ description: Documentação de Usuário
 theme: just-the-docs
 
 url: https://painelhml.sunfacil.com.br/
+logo: "https://solarklinlabshml.nyc3.digitaloceanspaces.com/companylogo/logo-Cpv2ISIG.png"
+logo_alt: "minha logo"
+color_scheme: custom  # Aplica o esquema de cores personalizado
+
+custom_css: custom  # Aplica o CSS customizado
+sass:
+  style: compressed
+  load_paths:
+    - _sass  # Carrega o conteúdo da pasta _sass
+
+just_the_docs:
 
 
