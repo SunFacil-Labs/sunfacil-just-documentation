@@ -8,11 +8,5 @@ logo_alt: "minha logo"
 color_scheme: custom  # Aplica o esquema de cores personalizado
 
 custom_css: custom  # Aplica o CSS customizado
-sass:
-  style: compressed
-  load_paths:
-    - _sass  # Carrega o conteúdo da pasta _sass
 
-just_the_docs:
-
-
+permalink: pretty
