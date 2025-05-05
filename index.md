@@ -24,7 +24,7 @@ O **SunFácil** é a sua plataforma para gestão eficiente e prática de energia
   Ver no GitHub
   </a>
 </div>
-## Funcionalidades
+## [Funcionalidades](/docs/config/)
 
 - **Gestão de Clientes**: Acompanhe todo o ciclo de vendas e pós-venda.
 - **Análise de Desempenho**: Monitore o desempenho da sua equipe de vendas e serviços em tempo real.
