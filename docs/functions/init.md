@@ -14,7 +14,7 @@ Bem-vindo ao painel de controle do **SunFácil**! Aqui você terá acesso a info
 
 - **Status de Leads e Negociações**: Monitore o progresso das negociações e o status dos leads em tempo real.
 
-  ![Exemplo de Status de Leads](/assets/images/image2.png)
+![Exemplo de Status de Leads]({{ "/assets/images/image2.png" | relative_url }})
 
 
 - **Evolução de Vendas**: Visualize gráficos e relatórios detalhados sobre o crescimento das vendas.

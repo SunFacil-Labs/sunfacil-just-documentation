@@ -5,7 +5,9 @@ theme: just-the-docs
 url: https://painelhml.sunfacil.com.br/
 logo: "https://solarklinlabshml.nyc3.digitaloceanspaces.com/companylogo/logo-Cpv2ISIG.png"
 logo_alt: "minha logo"
-color_scheme: custom  
+color_scheme: custom
+
+baseurl: "/sunfacil-just-documentation"
 
 custom_css: custom  
 
