@@ -24,7 +24,8 @@ O **SunFácil** é a sua plataforma para gestão eficiente e prática de energia
   Ver no GitHub
   </a>
 </div>
-## [Funcionalidades](/docs/config/)
+
+## Funcionalidades
 
 - **Gestão de Clientes**: Acompanhe todo o ciclo de vendas e pós-venda.
 - **Análise de Desempenho**: Monitore o desempenho da sua equipe de vendas e serviços em tempo real.
@@ -36,8 +37,8 @@ O **SunFácil** é a sua plataforma para gestão eficiente e prática de energia
 Para começar a usar o sistema SunFácil, siga os passos abaixo:
 
 1. **Login**: Acesse sua conta utilizando suas credenciais. Se você não possui uma conta, entre em contato com o administrador do sistema.
-2. **Navegação**: Familiarize-se com o layout do sistema. Utilize o menu lateral para acessar as diferentes funcionalidades.
-3. **Configurações**: Ajuste suas preferências de usuário nas configurações do perfil.
+2. **Navegação**: Familiarize-se com o layout do sistema. Utilize o menu lateral para acessar as diferentes funcionalidades. Saiba mais sobre as [Funcionalidades](/docs/functions/)
+3. **Configurações**: Ajuste suas preferências de usuário nas configurações no perfil do administrador, caso haja Dúvidas, consulte a seção de [Configurações](/docs/config/).
 
 ## Acesso ao Sistema
 
@@ -52,11 +53,8 @@ Se você encontrar dificuldades ou tiver dúvidas, entre em contato com nossa eq
 
 ## Contribuições
 
-Se você deseja contribuir com melhorias ou relatar problemas, por favor, utilize nosso [formulário de feedback](#).
+Se você deseja contribuir com melhorias ou relatar problemas, por favor, utilize nosso [formulário de feedback](/forms/forms/).
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](#).
 
 ## Recursos Adicionais
 

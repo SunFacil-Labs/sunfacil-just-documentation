@@ -5,10 +5,12 @@ theme: just-the-docs
 url: https://painelhml.sunfacil.com.br/
 logo: "https://solarklinlabshml.nyc3.digitaloceanspaces.com/companylogo/logo-Cpv2ISIG.png"
 logo_alt: "minha logo"
-color_scheme: custom  # Aplica o esquema de cores personalizado
+color_scheme: custom  
 
-custom_css: custom  # Aplica o CSS customizado
+custom_css: custom  
 
 permalink: pretty
 
-favicon_ico: "https://solarklinlabshml.nyc3.digitaloceanspaces.com/companylogo/logo-Cpv2ISIG.png"
+favicon_ico: "/assets/favicon.ico"
+
+footer_content: "© 2025 SunFácil - Soluções em Energia Sustentável. Todos os direitos reservados."
