@@ -24,7 +24,7 @@ A funcionalidade de **Proposta Rápida** permite criar, visualizar, compartilhar
   - **Cancelar**: Cancela a proposta selecionada.
 
 ### Exemplo da Tela
-*(Insira aqui uma imagem ilustrativa da tela de Proposta Rápida)*
+![Exemplo de transferência]({{ "/assets/images/businessImage/image.png" | relative_url }})
 
 ---
 
@@ -58,25 +58,38 @@ A funcionalidade de **Proposta Rápida** permite criar, visualizar, compartilhar
 3. Clique no botão **"Gerar Proposta"** para finalizar o processo.
 
 ### Exemplo do Formulário
-*(Insira aqui uma imagem ilustrativa do formulário de criação de proposta)*
+
+- **Informações do Projeto**:
+
+![Exemplo de transferência]({{"/assets/images/businessImage/image1.png" | relative_url }})
+
+- **Informações do Cliente**:
+
+![Exemplo de transferência]({{"/assets/images/businessImage/image2.png" | relative_url }})
+
+- **Informações da Proposta**:
+
+![Exemplo de transferência]({{"/assets/images/businessImage/image3.png" | relative_url }})
 
 ---
 
 ## Aprovação de Descontos
 
-- Caso um desconto seja aplicado, ele precisará ser aprovado por um administrador antes que a proposta possa ser aprovada futuramente.
+- Caso um desconto seja aplicado, ele precisará ser aprovado na tela de [descontos](../discountProposal) por um administrador antes que a proposta possa ser aprovada futuramente.
 
 ### Exemplo de Aprovação
-*(Insira aqui uma imagem ilustrativa do fluxo de aprovação de descontos)*
 
+
+![Exemplo de transferência]({{"/assets/images/businessImage/image4.png" | relative_url }})
 ---
 
 ## Gerenciamento de Propostas
 
-- Utilize os botões **Visualizar**, **Compartilhar** e **Cancelar** na tabela para gerenciar as propostas existentes.
+- Utilize os botões **Visualizar**(azul), **Compartilhar**(verde) e **Cancelar**(amarelo) na tabela para gerenciar as propostas existentes.
 
 ### Exemplo da Tabela de Propostas
-*(Insira aqui uma imagem ilustrativa da tabela de propostas)*
+
+![Exemplo de transferência]({{"/assets/images/businessImage/image5.png" | relative_url }})
 
 ---
 
