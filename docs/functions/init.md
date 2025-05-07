@@ -1,7 +1,7 @@
 ---
 title: Início
 layout: home
-nav_order: 2
+nav_order: 1
 parent: Funcionalidades
 has_toc: false
 ---
@@ -19,7 +19,7 @@ Bem-vindo ao painel de controle do **SunFácil**! Aqui você terá acesso a info
 
 - **Evolução de Vendas**: Visualize gráficos e relatórios detalhados sobre o crescimento das vendas.
 
-  ![Exemplo de Evolução de Vendas]({{ "/assets/images/image1.png" | relative_url }})
+  ![Exemplo de Evolução de Vendas]({{ "/assets/images/image.png" | relative_url }})
 
 
 - **Desempenho da Equipe**: Avalie o desempenho individual e coletivo da sua equipe.

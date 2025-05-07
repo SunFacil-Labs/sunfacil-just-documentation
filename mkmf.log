@@ -1,0 +1,27 @@
+have_header: checking for ruby.h... -------------------- yes
+
+PATH=".;C:/tools/ruby34/lib;C:\Program Files\PowerShell\7;C:\tools\ruby34\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.422.5-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\PowerShell\7\;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\Micro\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Micro\AppData\Local\Programs\Python\Python311\;C:\Users\Micro\.cargo\bin;C:\Users\Micro\AppData\Local\Microsoft\WindowsApps;C:\Users\Micro\AppData\Roaming\npm;C:\Users\Micro\AppData\Local\Programs\Fiddler;C:\Users\Micro\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Micro\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Micro\Downloads\eclipse;C:\Users\Micro\AppData\Local\GitHubDesktop\bin;C:\Users\Micro\AppData\Local\Microsoft\WindowsApps;C:\Users\Micro\AppData\Local\lvim\bin;;C:\ProgramData\mingw64\mingw64\bin;c:\Users\Micro\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand" ASAN_OPTIONS=detect_leaks=0 "gcc -o conftest.exe -IC:/tools/ruby34/include/ruby-3.4.0/x64-mingw-ucrt -IC:/tools/ruby34/include/ruby-3.4.0/ruby/backward -IC:/tools/ruby34/include/ruby-3.4.0 -I. -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fstack-protector-strong conftest.c -L. -LC:/tools/ruby34/lib -L. -pipe -s -fstack-protector-strong -Wl,--no-as-needed     -lx64-ucrt-ruby340  -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: int main(int argc, char **argv)
+6: {
+7:   return !!argv[argc];
+8: }
+/* end */
+
+PATH=".;C:/tools/ruby34/lib;C:\Program Files\PowerShell\7;C:\tools\ruby34\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jre-8.0.422.5-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\PowerShell\7\;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\Micro\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Micro\AppData\Local\Programs\Python\Python311\;C:\Users\Micro\.cargo\bin;C:\Users\Micro\AppData\Local\Microsoft\WindowsApps;C:\Users\Micro\AppData\Roaming\npm;C:\Users\Micro\AppData\Local\Programs\Fiddler;C:\Users\Micro\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Micro\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Micro\Downloads\eclipse;C:\Users\Micro\AppData\Local\GitHubDesktop\bin;C:\Users\Micro\AppData\Local\Microsoft\WindowsApps;C:\Users\Micro\AppData\Local\lvim\bin;;C:\ProgramData\mingw64\mingw64\bin;c:\Users\Micro\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand" ASAN_OPTIONS=detect_leaks=0 "gcc -IC:/tools/ruby34/include/ruby-3.4.0/x64-mingw-ucrt -IC:/tools/ruby34/include/ruby-3.4.0/ruby/backward -IC:/tools/ruby34/include/ruby-3.4.0 -I. -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fstack-protector-strong   -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: #include <ruby.h>
+/* end */
+
+--------------------
+

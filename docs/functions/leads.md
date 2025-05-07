@@ -13,26 +13,25 @@ has_toc: false
 
 Os administradores possuem acesso completo ao gerenciamento de leads. As principais ações disponíveis são:
 
-- **Adicionar Clientes**: Insira novos clientes individualmente.
+- **Adicionar Leads**: Insira novos Leads individualmente.
   
   ![Exemplo de Adicionar leads]({{ "/assets/images/leadsImage/image1.png" | relative_url }})
 
-- **Adicionar Clientes**: Insira novos clientes de forma em massa, subir uma lista seguindo o padrão do modelo.
+- **Adicionar Leads**: Insira novos leads de forma em massa, subir uma lista seguindo o padrão do modelo.
 
-  ![Exemplo de Adicionar clientes em massa]({{ "/assets/images/leadsImage/image2.png" | relative_url }})
+  ![Exemplo de Adicionar leads em massa]({{ "/assets/images/leadsImage/image2.png" | relative_url }})
 
-- **Editar Clientes**: Atualize as informações de clientes existentes.
+- **Editar Leads**: Atualize as informações de leads existentes.
 
   ![Exemplo de Editar leads]({{ "/assets/images/leadsImage/image6.png" | relative_url }})
 
 - **Visualizar Leads**: Consulte a lista de leads cadastrados.
 
-  ![Exemplo de Visualizar leads]({{ "/assets/images/leadsImage/image4.png" | relative_url }})
+  ![Exemplo de Visualizar leads]({{ "/assets/images/leadsImage/image7.png" | relative_url }})
 
 - **Visualizar Detalhe do Lead**: Veja informações detalhadas de um lead específico.
 
   ![Exemplo de Visualizar detalhes do leads]({{ "/assets/images/leadsImage/image5.png" | relative_url }})
-  *(Espaço reservado para imagem de exemplo de detalhes do lead)*
 
 - **Transferir Responsabilidade do Lead**: Reatribua um lead para outro responsável.
 
@@ -44,38 +43,37 @@ Os administradores possuem acesso completo ao gerenciamento de leads. As princip
 
 Os usuários do perfil de pré-venda possuem ações específicas para gerenciar leads. As principais funcionalidades são:
 
-- **Adicionar Clientes**: Insira novos clientes individualmente.
+- **Adicionar Leads**: Insira novos leads individualmente.
 
   ![Exemplo de Adicionar leads]({{ "/assets/images/leadsImage/image1.png" | relative_url }})
 
-- **Editar Clientes**: Atualize as informações de clientes existentes.
+- **Editar Leads**: Atualize as informações de leads existentes.
 
   ![Exemplo de Editar leads]({{ "/assets/images/leadsImage/image6.png" | relative_url }})
 
-- **Assumir Responsabilidade de um Lead**: Mova leads da página "Pendentes" para "Meus Leads".
+- **Assumir Responsabilidade de um Lead**:Ao clicar no botão verde, Mova leads da página "Pendentes" para "Meus Leads".
 
-  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image7.png" | relative_url }})
+  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image14.png" | relative_url }})
 
 ### Meus Leads
 
 Na página "Meus Leads", os usuários podem realizar as seguintes ações:
 
-- **Criar Negociação**: Inclua os dados do cliente, informações do projeto e agende um horário com o vendedor correspondente.
+- **Criar Negociação**: Inclua os dados do lead, informações do projeto e agende um horário com o vendedor correspondente.
 
-  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image8.png" | relative_url }})
-  *(Espaço reservado para imagem de exemplo de criação de negociação)*
+  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image10.png" | relative_url }})
 
 - **Editar Lead**: Atualize as informações de um lead, ao clicar no botão amarelo com a caricatura de um olho.
 
-  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image9.png" | relative_url }})
+  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image6.png" | relative_url }})
 
 - **Registrar Histórico de Chamadas**: Registre se uma ligação foi atendida ou não.
 
-  *(Espaço reservado para imagem de exemplo de registro de chamadas)*
+  ![Exemplo de Visualizar detalhes do leads]({{ "/assets/images/leadsImage/image12.png" | relative_url }})
 
 - **Incluir Lead na Lista Fria**: Marque um lead como inativo ou sem interesse.
 
-  *(Espaço reservado para imagem de exemplo de inclusão na lista fria)*
+  ![Exemplo de transferência]({{ "/assets/images/leadsImage/image13.png" | relative_url }})
 
 ---
 
@@ -83,8 +81,17 @@ Na página "Meus Leads", os usuários podem realizar as seguintes ações:
 
 Ao criar uma negociação, será necessário preencher:
 
+![Exemplo de transferência]({{ "/assets/images/leadsImage/image9.png" | relative_url }})
+
 1. **Dados do Cliente**: Informações básicas como nome, contato e endereço.
+
+![Exemplo de transferência]({{ "/assets/images/leadsImage/image15.png" | relative_url }})
+
 2. **Dados do Projeto**: Detalhes do projeto de energia solar, como tamanho, orçamento e prazo.
+
+![Exemplo de transferência]({{ "/assets/images/leadsImage/image16.png" | relative_url }})
+
 3. **Agendamento**: Escolha um horário na agenda do vendedor correspondente.
 
-*(Espaço reservado para imagem de exemplo de formulário de criação de negociação)*
+![Exemplo de transferência]({{ "/assets/images/leadsImage/image17.png" | relative_url }})
+
