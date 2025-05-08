@@ -36,13 +36,13 @@ A funcionalidade de **Proposta Rápida** permite criar, visualizar, compartilhar
    - Tipo de estrutura
    - Consumo mensal
    - Distribuidora de energia
-   - *(Outros detalhes relevantes do projeto)*
+   - etc.
 
 2. **Informações do Cliente**:
    - Nome
    - CPF
    - Endereço
-   - *(Outros dados do cliente)*
+   - etc.
 
 3. **Informações da Proposta**:
    - Detalhes da proposta
