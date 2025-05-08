@@ -1,7 +1,7 @@
 ---
 title: Detalhes da Negociação e Sistema
 layout: home
-nav_order: 3
+nav_order: 1
 parent: Negociação
 has_toc: false
 ---
@@ -30,7 +30,7 @@ A página de negociação exibe informações detalhadas sobre a negociação e 
 
 ### Ações
 - **Ícone do Olho**: Ao lado do nome do cliente, há um ícone de olho que, ao ser clicado, exibe os detalhes do cliente.  
-  **[Espaço reservado para imagem explicativa do ícone do olho]**
+  ![Exemplo de transferência]({{"/assets/images/businessingImage/image1.png" | relative_url }})
 
 ---
 
@@ -49,10 +49,10 @@ A página de negociação exibe informações detalhadas sobre a negociação e 
 
 ### Ações
 - **Botão de Editar Endereço**: Ao lado do nome da cidade e estado, há um botão para editar o endereço do cliente.  
-  **[Espaço reservado para imagem explicativa do botão de editar endereço]**
+  ![Exemplo de transferência]({{"/assets/images/businessingImage/image4.png" | relative_url }})
 
 - **Botão de Alterar Informações do Sistema**: Ao lado do título "DETALHES DO SISTEMA", há um botão para alterar as informações do sistema.  
-  **[Espaço reservado para imagem explicativa do botão de alterar informações do sistema]**
+  ![Exemplo de transferência]({{"/assets/images/businessingImage/image3.png" | relative_url }})
 
 ---
 
@@ -62,5 +62,6 @@ A página de negociação exibe informações detalhadas sobre a negociação e 
 3. Role até **Informações do Sistema** para visualizar os detalhes técnicos.  
 4. Utilize os botões para editar o endereço do cliente ou alterar as informações do sistema, conforme necessário.  
 
-**[Espaço reservado para imagem geral do fluxo da página de negociação]**
+- ![Exemplo de transferência]({{"/assets/images/businessingImage/image.png" | relative_url }})
+- ![Exemplo de transferência]({{"/assets/images/businessingImage/image2.png" | relative_url }})
 

@@ -9,7 +9,8 @@ has_toc: false
 
 # Tela de Negociação
 
-## Funcionalidades
+### Regras de Visualização
+- A tela de Negociação é visível apenas para o vendedor e o administrador.  
 
 ### Tabela de Negociações
 A tela exibe uma tabela com as seguintes colunas:
@@ -31,4 +32,4 @@ A tela exibe uma tabela com as seguintes colunas:
 ## Exemplos Visuais
 
 ### Tabela de Negociações
-![Exemplo de Tabela de Negociações](#)
+![Exemplo de transferência]({{"/assets/images/businessingImage/image12.png" | relative_url }})
