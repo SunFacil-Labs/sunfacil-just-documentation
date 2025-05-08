@@ -17,6 +17,8 @@ Este sistema foi desenvolvido para otimizar cada etapa do processo comercial, de
   - [Proposta Rápida](business/quickProposal/): Criação simplificada de propostas comerciais.  
   - [Aprovar Descontos](business/discountProposal/): Solicitação e controle de aprovações.  
   - [Negociação](business/businessing/): Registro de interações e andamento da tratativa.  
+    - [Detalhes da Negociação e Sistema](business/businessing/businessDetailAndInfoSystem): Detalhes da Negociação, como clientes, dono do negócio, origem e etc, e Infomações do sistema que está na Negociação.
+    - [Propostas e Agendamentos](business/businessing/proposalAndScheduler): Gerenciamento de propostas e agendamentos relacionados.
   - [Vendas](business/sales/): Conversão de negócios em clientes, com histórico completo.  
   - [Aprovar Recibos](business/approveReceipt): Validação e liberação de comprovantes.  
 - [**Clientes**](customers/): Base de dados com informações completas e histórico de cada cliente.  

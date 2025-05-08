@@ -15,6 +15,8 @@ Bem-vindo à seção de **Negócios**. Aqui você encontrará informações e fe
 - [Proposta Rápida](quickProposal/): Saiba como criar propostas comerciais de forma ágil e eficiente.
 - [Aprovar Descontos](discountProposal/): Entenda o processo de aprovação de descontos para clientes.
 - [Negociação](businessing/): Veja suas negociações em andamento e como gerenciá-las, realizar  criação de proposta, adicionar nota e etc.
+    - [Detalhes da Negociação e Sistema](business/businessing/businessDetailAndInfoSystem): Detalhes da Negociação, como clientes, dono do negócio, origem e etc, e Infomações do sistema que está na Negociação.
+    - [Propostas e Agendamentos](business/businessing/proposalAndScheduler): Gerenciamento de propostas e agendamentos relacionados.
 - [Vendas](sales/): Explore as melhores práticas para maximizar suas vendas.
 - [Aprovar Recibos](approveReceipt/): Guia para gerenciar e aprovar recibos de forma organizada.
 
