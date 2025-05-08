@@ -8,6 +8,9 @@ has_toc: false
 
 
 # Tela de Aprovação de Descontos
+<br>
+ 
+Os descontos disponíveis para aprovação são exibidos exclusivamente quando vinculados a uma proposta previamente criada com desconto. Isso garante que todas as solicitações estejam associadas a um contexto específico e devidamente registrado no sistema.
 
 ## Requisitos de Acesso
 - **Somente administradores** têm permissão para acessar esta tela.
@@ -43,10 +46,10 @@ has_toc: false
 ## Exemplos Visuais
 
 ### Visualização Geral
-![Exemplo de Visualização Geral](#)
+![Exemplo de Visualização Geral]({{"/assets/images/businessImage/image6.png" | relative_url }})
 
 ### Filtros
-![Exemplo de Filtros](#)
+![Exemplo de Filtros]({{"/assets/images/businessImage/image7.png" | relative_url }})
 
 ### Tabela de Solicitações
-![Exemplo de Tabela de Solicitações](#)
+![Exemplo de Tabela de Solicitações]({{"/assets/images/businessImage/image8.png" | relative_url }})
