@@ -18,7 +18,7 @@ A tela de vendas exibe todas as vendas geradas a partir de propostas aceitas. A 
 - **Valor Pago:** Valor já pago da venda.  
 - **Status:** Exemplo: Pendente, Parcial, Concluído.  
 
-![Exemplo de tabela de vendas]({{"/assets/images/salesImage/image1.png" | relative_url }})
+![Exemplo de tabela de vendas]({{"/assets/images/salesImage/image.png" | relative_url }})
 
 ### Detalhes da Venda
 Ao clicar no código da venda, os detalhes da venda são exibidos, incluindo:
@@ -36,10 +36,13 @@ Ao clicar no código da venda, os detalhes da venda são exibidos, incluindo:
 - **Data de Aprovação/Rejeição:** Exibida quando o pagamento for aprovado ou rejeitado.  
 - **Status:** Exemplo: Pendente, Aprovado, Rejeitado.  
 
+![Exemplo de detalhes da venda]({{"/assets/images/salesImage/image1.png" | relative_url }})
+
 Na seção de pagamentos, há uma engrenagem que, ao ser clicada, exibe as seguintes opções:  
-- **Visualizar Recibo:** Exibe o recibo do pagamento.  
-- **Aprovar Pagamento:** Aprova o pagamento pendente.  
-- **Rejeitar Pagamento:** Rejeita o pagamento pendente.  
+- **Visualizar Comprovante:** exibe o comprovante enviado no ato de criar um pagamento.
+- **Visualizar Recibo:** Exibe o recibo do pagamento, essa função é desbloqueada após um administrador aprovar o pagamento.  
+- **Aprovar Pagamento:** Aprova o pagamento pendente, somente para administradores.  
+- **Rejeitar Pagamento:** Rejeita o pagamento pendente, somente para administradores.  
 
 ![Exemplo de detalhes da venda]({{"/assets/images/salesImage/image2.png" | relative_url }})
 
@@ -50,13 +53,16 @@ Na parte superior, logo após o título, há uma engrenagem com as seguintes op�
 - **Adicionar Pagamento:** Disponível apenas para o vendedor responsável pela venda, permite adicionar um novo pagamento.  
 
 ![Exemplo de ações disponíveis]({{"/assets/images/salesImage/image3.png" | relative_url }})
+![Exemplo de informações adicionais]({{"/assets/images/salesImage/image5.png" | relative_url }})
 
 ### Informações Adicionais
 Na parte inferior da tela, são exibidas as seguintes informações:  
 - **Informações da Proposta:** Detalhes da proposta que gerou a venda.  
 - **Informações do Cliente:** Dados do cliente relacionados à venda.  
 
-![Exemplo de informações adicionais]({{"/assets/images/salesImage/image4.png" | relative_url }})
+![Exemplo de informações adicionais]({{"/assets/images/salesImage/image6.png" | relative_url }})
+
+
 
 ---
 
